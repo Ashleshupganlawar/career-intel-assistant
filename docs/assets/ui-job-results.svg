@@ -1,0 +1,79 @@
+<svg width="1400" height="900" viewBox="0 0 1400 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="900" rx="24" fill="#0E1117"/>
+  <rect x="0" y="0" width="290" height="900" rx="24" fill="#262730"/>
+  <text x="28" y="88" fill="#F3F4F6" font-size="26" font-family="Arial, sans-serif" font-weight="700">Conversations</text>
+  <rect x="28" y="118" width="234" height="46" rx="12" fill="#2E3040" stroke="#575A6B"/>
+  <text x="74" y="147" fill="#F9FAFB" font-size="20" font-family="Arial, sans-serif" font-weight="600">New Conversation</text>
+  <rect x="28" y="182" width="234" height="46" rx="12" fill="#2E3040" stroke="#575A6B"/>
+  <text x="48" y="211" fill="#F9FAFB" font-size="18" font-family="Arial, sans-serif" font-weight="500">Delete Older Conversations</text>
+  <line x1="28" y1="276" x2="262" y2="276" stroke="#5C6070"/>
+  <rect x="28" y="320" width="234" height="180" rx="14" fill="#2A2C38" stroke="#595C6B"/>
+  <text x="44" y="362" fill="#F9FAFB" font-size="16" font-family="Arial, sans-serif" font-weight="700">fetch latest jobs -&gt; find me the</text>
+  <text x="44" y="390" fill="#F9FAFB" font-size="16" font-family="Arial, sans-serif" font-weight="700">company culture for all the</text>
+  <text x="44" y="418" fill="#F9FAFB" font-size="16" font-family="Arial, sans-serif" font-weight="700">companies listed...</text>
+  <text x="44" y="460" fill="#B3B6C6" font-size="14" font-family="Arial, sans-serif">thread_20260316_015705</text>
+  <rect x="46" y="480" width="196" height="42" rx="12" fill="#2B2D3B" stroke="#616575"/>
+  <text x="120" y="507" fill="#A5A8B6" font-size="16" font-family="Arial, sans-serif">Open</text>
+
+  <rect x="360" y="96" width="970" height="52" rx="14" fill="#0E1326" stroke="#252B46"/>
+  <text x="380" y="129" fill="#F8FAFC" font-size="24" font-family="Arial, sans-serif" font-weight="700">AI Job Intelligence Assistant</text>
+
+  <text x="360" y="220" fill="#F9FAFB" font-size="42" font-family="Arial, sans-serif" font-weight="800">Conversation</text>
+  <text x="360" y="266" fill="#9CA3AF" font-size="16" font-family="Arial, sans-serif">Thread: thread_20260316_015705</text>
+
+  <rect x="1095" y="224" width="235" height="46" rx="12" fill="#151924" stroke="#4A4E62"/>
+  <text x="1132" y="254" fill="#F8FAFC" font-size="18" font-family="Arial, sans-serif" font-weight="600">Delete This Conversation</text>
+
+  <rect x="360" y="292" width="970" height="74" rx="12" fill="#1B1F27"/>
+  <rect x="378" y="314" width="30" height="30" rx="8" fill="#FF4B4B"/>
+  <text x="424" y="335" fill="#F8FAFC" font-size="18" font-family="Arial, sans-serif">[resume: AshleshResume.pdf] fetch latest jobs</text>
+
+  <rect x="360" y="388" width="970" height="74" rx="12" fill="#0E1117"/>
+  <rect x="378" y="410" width="30" height="30" rx="8" fill="#FF9D1E"/>
+  <text x="424" y="431" fill="#F8FAFC" font-size="18" font-family="Arial, sans-serif">Fetched fresh jobs from the last 24 hours. Showing top 20 jobs.</text>
+
+  <text x="424" y="516" fill="#F9FAFB" font-size="32" font-family="Arial, sans-serif" font-weight="800">Top 20 Latest Jobs</text>
+
+  <rect x="424" y="548" width="906" height="278" fill="#0E1117" stroke="#3C4250"/>
+  <line x1="464" y1="548" x2="464" y2="826" stroke="#3C4250"/>
+  <line x1="885" y1="548" x2="885" y2="826" stroke="#3C4250"/>
+  <line x1="1100" y1="548" x2="1100" y2="826" stroke="#3C4250"/>
+  <line x1="1180" y1="548" x2="1180" y2="826" stroke="#3C4250"/>
+  <line x1="1270" y1="548" x2="1270" y2="826" stroke="#3C4250"/>
+  <line x1="424" y1="594" x2="1330" y2="594" stroke="#3C4250"/>
+  <line x1="424" y1="662" x2="1330" y2="662" stroke="#2A303C"/>
+  <line x1="424" y1="730" x2="1330" y2="730" stroke="#2A303C"/>
+  <line x1="424" y1="798" x2="1330" y2="798" stroke="#2A303C"/>
+
+  <text x="438" y="576" fill="#F8FAFC" font-size="16" font-family="Arial, sans-serif" font-weight="700">#</text>
+  <text x="480" y="576" fill="#F8FAFC" font-size="16" font-family="Arial, sans-serif" font-weight="700">Role</text>
+  <text x="898" y="576" fill="#F8FAFC" font-size="16" font-family="Arial, sans-serif" font-weight="700">Location</text>
+  <text x="1112" y="576" fill="#F8FAFC" font-size="16" font-family="Arial, sans-serif" font-weight="700">Salary</text>
+  <text x="1194" y="576" fill="#F8FAFC" font-size="16" font-family="Arial, sans-serif" font-weight="700">Source</text>
+  <text x="1284" y="576" fill="#F8FAFC" font-size="16" font-family="Arial, sans-serif" font-weight="700">Apply</text>
+
+  <text x="438" y="635" fill="#F8FAFC" font-size="16" font-family="Arial, sans-serif">1</text>
+  <text x="480" y="622" fill="#F8FAFC" font-size="15" font-family="Arial, sans-serif">Lead of Data &amp; Analytics, Associate Experience @ Raymond</text>
+  <text x="480" y="646" fill="#F8FAFC" font-size="15" font-family="Arial, sans-serif">James</text>
+  <text x="898" y="635" fill="#F8FAFC" font-size="15" font-family="Arial, sans-serif">US</text>
+  <text x="1112" y="635" fill="#F8FAFC" font-size="15" font-family="Arial, sans-serif">Not listed</text>
+  <text x="1194" y="635" fill="#F8FAFC" font-size="15" font-family="Arial, sans-serif">adzuna</text>
+  <text x="1284" y="635" fill="#3EA6FF" font-size="15" font-family="Arial, sans-serif">Apply</text>
+
+  <text x="438" y="703" fill="#F8FAFC" font-size="16" font-family="Arial, sans-serif">2</text>
+  <text x="480" y="690" fill="#F8FAFC" font-size="15" font-family="Arial, sans-serif">Senior Data Scientist - (Open to Remote) @ Reinsurance</text>
+  <text x="480" y="714" fill="#F8FAFC" font-size="15" font-family="Arial, sans-serif">Group of America, Incorporated</text>
+  <text x="898" y="703" fill="#F8FAFC" font-size="15" font-family="Arial, sans-serif">Chesterfield, MO</text>
+  <text x="1112" y="703" fill="#F8FAFC" font-size="15" font-family="Arial, sans-serif">Not listed</text>
+  <text x="1194" y="703" fill="#F8FAFC" font-size="15" font-family="Arial, sans-serif">linkedin</text>
+  <text x="1284" y="703" fill="#3EA6FF" font-size="15" font-family="Arial, sans-serif">Apply</text>
+
+  <text x="438" y="771" fill="#F8FAFC" font-size="16" font-family="Arial, sans-serif">3</text>
+  <text x="480" y="758" fill="#F8FAFC" font-size="15" font-family="Arial, sans-serif">88-50100109 Senior Data Scientist (Quality Excellence Lead)</text>
+  <text x="480" y="782" fill="#F8FAFC" font-size="15" font-family="Arial, sans-serif">@ Roche</text>
+  <text x="898" y="758" fill="#F8FAFC" font-size="15" font-family="Arial, sans-serif">South San Francisco,</text>
+  <text x="898" y="782" fill="#F8FAFC" font-size="15" font-family="Arial, sans-serif">San Mateo County</text>
+  <text x="1112" y="771" fill="#F8FAFC" font-size="15" font-family="Arial, sans-serif">Not listed</text>
+  <text x="1194" y="771" fill="#F8FAFC" font-size="15" font-family="Arial, sans-serif">adzuna</text>
+  <text x="1284" y="771" fill="#3EA6FF" font-size="15" font-family="Arial, sans-serif">Apply</text>
+</svg>

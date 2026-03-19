@@ -1,0 +1,37 @@
+<svg width="1400" height="780" viewBox="0 0 1400 780" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="780" rx="24" fill="#0E1117"/>
+  <rect x="0" y="0" width="290" height="780" rx="24" fill="#262730"/>
+  <text x="28" y="88" fill="#F3F4F6" font-size="26" font-family="Arial, sans-serif" font-weight="700">Conversations</text>
+  <rect x="28" y="118" width="234" height="46" rx="12" fill="#2E3040" stroke="#575A6B"/>
+  <text x="74" y="147" fill="#F9FAFB" font-size="20" font-family="Arial, sans-serif" font-weight="600">New Conversation</text>
+  <rect x="28" y="182" width="234" height="46" rx="12" fill="#2E3040" stroke="#575A6B"/>
+  <text x="48" y="211" fill="#F9FAFB" font-size="18" font-family="Arial, sans-serif" font-weight="500">Delete Older Conversations</text>
+  <line x1="28" y1="276" x2="262" y2="276" stroke="#5C6070"/>
+  <rect x="28" y="320" width="234" height="158" rx="14" fill="#2A2C38" stroke="#595C6B"/>
+  <text x="46" y="362" fill="#F9FAFB" font-size="20" font-family="Arial, sans-serif" font-weight="700">New conversation</text>
+  <text x="46" y="406" fill="#B3B6C6" font-size="14" font-family="Arial, sans-serif">thread_20260319_034404</text>
+  <rect x="46" y="426" width="196" height="42" rx="12" fill="#2B2D3B" stroke="#616575"/>
+  <text x="120" y="453" fill="#A5A8B6" font-size="16" font-family="Arial, sans-serif">Open</text>
+
+  <rect x="360" y="108" width="970" height="52" rx="14" fill="#0E1326" stroke="#252B46"/>
+  <text x="380" y="141" fill="#F8FAFC" font-size="24" font-family="Arial, sans-serif" font-weight="700">AI Job Intelligence Assistant</text>
+
+  <text x="360" y="228" fill="#F9FAFB" font-size="42" font-family="Arial, sans-serif" font-weight="800">Conversation</text>
+  <text x="360" y="274" fill="#9CA3AF" font-size="16" font-family="Arial, sans-serif">Thread: thread_20260319_034404</text>
+
+  <rect x="1095" y="228" width="235" height="46" rx="12" fill="#151924" stroke="#4A4E62"/>
+  <text x="1132" y="258" fill="#F8FAFC" font-size="18" font-family="Arial, sans-serif" font-weight="600">Delete This Conversation</text>
+
+  <rect x="360" y="294" width="970" height="54" rx="12" fill="#1B3650"/>
+  <text x="378" y="327" fill="#3EA6FF" font-size="18" font-family="Arial, sans-serif">No messages yet. Upload resume and/or send a prompt.</text>
+
+  <line x1="360" y1="394" x2="1330" y2="394" stroke="#3A3F4B"/>
+
+  <rect x="360" y="438" width="970" height="82" rx="12" fill="#0F1218" stroke="#454B5A"/>
+  <rect x="378" y="456" width="162" height="42" rx="12" fill="#2A2D39" stroke="#52586C"/>
+  <text x="396" y="484" fill="#F8FAFC" font-size="18" font-family="Arial, sans-serif" font-weight="700">Browse files</text>
+  <rect x="556" y="456" width="615" height="42" rx="12" fill="#2B2D39"/>
+  <text x="576" y="484" fill="#9AA0AD" font-size="18" font-family="Arial, sans-serif">Ask a question or upload resume, then press Enter...</text>
+  <rect x="1186" y="456" width="154" height="42" rx="12" fill="#FF4B4B"/>
+  <polygon points="1263,477 1249,469 1249,485" fill="#FFFFFF"/>
+</svg>
