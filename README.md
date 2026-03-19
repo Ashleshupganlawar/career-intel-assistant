@@ -93,6 +93,27 @@ This is the practical flow inside the app:
 
 ## Architecture
 
+```mermaid
+flowchart LR
+    U[User] --> UI[Streamlit UI]
+    UI --> GP[ChatGraphPipeline]
+    UI --> CS[ConversationStore]
+    GP --> RP[ResumeParser]
+    GP --> JA[JobAggregator]
+    GP --> HM[HybridMatcher]
+    GP --> LR[LocalRAGRetriever]
+    GP --> FV[FAISS Vector DB]
+    GP --> JR[JsonRepository]
+    LR --> PCP[Processed Company Profiles]
+    LR --> RS[Raw Source Text]
+    FV --> VS[Vector Store Assets]
+    JA --> JS[Job Source Connectors]
+    HM --> JT[Job Records]
+    RP --> CP[Candidate Profile]
+    GP --> OA[OpenAI API]
+    CS --> TH[Thread Context]
+```
+
 - `app/streamlit_app.py`: Streamlit UI and interaction flow
 - `src/job_intel/chat/`: Graph pipeline and chat orchestration
 - `src/job_intel/matching/`: Hybrid job ranking logic
@@ -164,6 +185,19 @@ Useful scripts:
 - How tests help protect AI-adjacent logic like ranking, parsing, storage, and retrieval from regressions
 
 If you are learning AI engineering, this project is useful because it touches several real product patterns at once: UI integration, LLM orchestration, retrieval, ranking, persistence, and evaluation-friendly structure.
+
+## Challenges Faced and Solutions
+
+- `Balancing deterministic logic with LLM flexibility`
+  The project needs reliable job ranking and storage behavior, but also benefits from natural-language understanding and resume extraction. The solution was to keep ranking, retrieval, and persistence deterministic while using LLMs as optional assistants for parsing and response generation.
+- `Keeping responses grounded instead of generic`
+  A career assistant can easily drift into vague advice. The solution was to add RAG over curated company profiles, source maps, raw source text, and vector search so answers can be tied back to retrievable evidence.
+- `Turning resume text into useful downstream signals`
+  Raw resume text is noisy and not directly usable for matching. The solution was to normalize it into candidate roles, skills, and profile text that can drive query derivation and match scoring.
+- `Making the app feel conversational without losing state`
+  Users often ask follow-up questions like "show more jobs" or "what is the culture at these companies?" The solution was to store thread context, fetched jobs, shown counts, and resume context in conversation storage.
+- `Designing this as a learning project and a product demo`
+  The challenge was not just building features, but building them in a way that shows real AI engineering patterns. The solution was to separate UI, orchestration, retrieval, matching, and storage into clear modules and back them with tests.
 
 ## Repository Notes
 
