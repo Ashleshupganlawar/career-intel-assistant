@@ -1,0 +1,59 @@
+{
+  "company": "Microsoft",
+  "industry": "Technology",
+  "official_sources": {
+    "careers_url": "https://www.microsoft.com/en-us",
+    "jobs_url": "https://jobs.careers.microsoft.com/",
+    "hiring_process_url": "https://www.microsoft.com/en-us",
+    "interview_structure_url": "https://www.microsoft.com/en-us",
+    "culture_url": "https://www.microsoft.com/en-us",
+    "faq_url": "https://www.microsoft.com/en-us"
+  },
+  "community_sources": {
+    "salary_source": [
+      {
+        "label": "Levels.fyi",
+        "url": "https://www.levels.fyi/companies/microsoft/salaries"
+      },
+      {
+        "label": "Indeed",
+        "url": "https://www.microsoft.com/en-us"
+      }
+    ],
+    "review_source": [
+      {
+        "label": "Glassdoor",
+        "url": "https://www.microsoft.com/en-us"
+      },
+      {
+        "label": "Comparably",
+        "url": "https://www.microsoft.com/en-us"
+      }
+    ],
+    "reddit_threads": []
+  },
+  "company_overview": "Microsoft is a major employer with role-specific hiring tracks and broad job families.",
+  "official_hiring_process": "Structured, role-specific hiring with recruiter screening and interview rounds where applicable.",
+  "hiring_trends_summary": "Use official jobs pages and recurring job families to track hiring patterns by location and role type.",
+  "salary_summary": "Community salary references are available; interpret as directional rather than definitive.",
+  "culture_summary_official": "Official messaging emphasizes inclusive hiring, preparation guidance, and role fit.",
+  "culture_summary_community": "Community sentiment appears mixed and team-dependent based on repeated discussion patterns.",
+  "interview_experience_summary": "Community reports commonly mention multi-round interviews and behavioral + technical depth.",
+  "common_interview_topics": [
+    "coding rounds / DSA"
+  ],
+  "reddit_common_themes": [
+    "team quality varies by org",
+    "interview process requires preparation"
+  ],
+  "reddit_red_flags": [
+    "mechanical interview experience"
+  ],
+  "reddit_positive_signals": [
+    "strong compensation on some tracks",
+    "large hiring footprint"
+  ],
+  "final_blended_insight": "Official process appears structured; community feedback suggests outcomes depend strongly on team and role.",
+  "notes": "Generated via heuristic fallback because model inference was unavailable. Treat as draft profile.",
+  "last_updated": "2026-03-14"
+}

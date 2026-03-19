@@ -1,0 +1,36 @@
+{
+  "company": "Microsoft",
+  "industry": "Technology",
+  "official_sources": {
+    "careers_url": "https://www.microsoft.com/en-us",
+    "jobs_url": "https://jobs.careers.microsoft.com/",
+    "hiring_process_url": "https://www.microsoft.com/en-us",
+    "interview_structure_url": "https://www.microsoft.com/en-us",
+    "culture_url": "https://www.microsoft.com/en-us",
+    "faq_url": "https://www.microsoft.com/en-us"
+  },
+  "community_sources": {
+    "salary_source": [
+      {
+        "label": "Levels.fyi",
+        "url": "https://www.levels.fyi/companies/microsoft/salaries"
+      },
+      {
+        "label": "Indeed",
+        "url": "https://www.microsoft.com/en-us"
+      }
+    ],
+    "review_source": [
+      {
+        "label": "Glassdoor",
+        "url": "https://www.microsoft.com/en-us"
+      },
+      {
+        "label": "Comparably",
+        "url": "https://www.microsoft.com/en-us"
+      }
+    ],
+    "reddit_threads": []
+  },
+  "last_updated": "2026-03-14"
+}

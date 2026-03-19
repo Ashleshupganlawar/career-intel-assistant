@@ -1,0 +1,17 @@
+python-dotenv
+requests
+beautifulsoup4
+trafilatura
+pandas
+tqdm
+huggingface_hub
+ddgs
+streamlit
+pypdf
+python-docx
+openai
+pytest
+faiss-cpu
+numpy
+sentence-transformers
+python-jobspy; python_version >= "3.10"

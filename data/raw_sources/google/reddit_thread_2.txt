@@ -1,0 +1,60 @@
+TITLE: Snagged a google interview, how do I prepare?
+
+POST: I’ve been casually job searching for the past few months with 0 luck. Stopped actively applying in the beginning of June. A couple weeks ago I got an email from a google recruiter saying they would be moving forward with my application. Since I wasn’t hearing back from anywhere, I didn’t bother prepping. I figured it would be a waste of time, and if I heard back from a recruiter in any capacity, I could start then (I realize now how stupid this was). Anyway, after a few minutes on the phone with the google recruiter, she was ready to set up my technical interviews (super day). The recruiter encouraged me to interview as early as possible since they’re filling a bunch of roles and reviewing tons of candidates, so I booked mine for 3 weeks out. Do I have any shot here?
+For background, I’ve been a software engineer in the professional for 3 years and have a bachelors degree in computer science, so I know all the data structures and algo basics, but definitely need some refreshing. The role I’m interviewing for doesn’t have a specified level, but is targeted for those with &lt; 3 years of professional experience.
+I’ve been following the google tech dev guide and leetcoding every spare minute of every day, but I’m not sure if it’s possible to be prepared in such a short amount of time.
+A lot of posts I’ve seen have been for people interviewing for higher level positions so I’m just not sure what difficulty the questions will be at. I’ve been doing almost entirely medium level leetcode but haven’t branched out to hard yet.
+
+TLDR:
+I have 3 weeks to prepare for an L3ish interview, any tips?
+
+COMMENTS:
+
+[removed]
+
+First of all congratulations on landing the Google interview. Its an achievable goal with proper preparation over the next 3 weeks. I prepared for google and ended up land on META.
+
+3 weeks of dedicated prep for an L3 (entry-level) position is actually doable, as you already have CS fundamentals and little bit IT Development experience. Your approach of focusing on LeetCode mediums is good. Below i sharing the complete roadmap for preparation.   
+  
+Although, i took help from LogicMojo classes for [preparing DSA](https://logicmojo.com/data-structures-and-algorithms) for Google Interviews. It was great. They have big contribution in My META Selection.
+
+For Google L3 interviews, you can expect
+
+* 1-2 coding questions per interview round (typically 45 minutes each)
+* Focus on data structures, algorithms, and problem-solving approach
+* Questions will be mostly medium difficulty with possibly one hard
+* System design will be minimal or non-existent at L3
+
+For Weekwise distribution.
+
+Week 1-2: Continue with LeetCode mediums, focusing on:
+
+* Arrays, strings, hashmaps
+* Trees (binary trees, BSTs)
+* Graphs (BFS/DFS)
+* Dynamic programming (start with easier ones)
+* Sorting and searching algorithms
+
+Week 3: Mock interviews and refinement
+
+* Do 2-3 mock interviews with friends or use services like Pramp
+* Review your weak areas
+* Practice explaining your thought process out loud
+
+Key interview tips:
+
+* Talk through your approach before coding
+* Consider edge cases before being prompted
+* Ask clarifying questions when needed
+* Write clean, organized code
+* Test your solution with examples
+
+As you might already got mail from Google about resources to prepare, Include those with above. You will crack it.
+
+Do all of the questions:
+
+Top Google questions: [https://www.designgurus.io/course/grokking-google-coding-interview](https://www.designgurus.io/course/grokking-google-coding-interview)
+
+Top 75 questions: [https://www.designgurus.io/course/grokking-75-top-coding-interview-questions](https://www.designgurus.io/course/grokking-75-top-coding-interview-questions)
+
+You should practice/solve at least 10 questions a day. You can do this. This is a great opportunity, many people are not getting any interview calls even after applying at 50 places.

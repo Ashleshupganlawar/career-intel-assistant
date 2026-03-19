@@ -1,0 +1,48 @@
+TITLE: A detailed interview experience at Amazon - New grad (on-site) 
+
+POST: **ROUND 1 (30min LP + 30min coding + 2min questions)**  
+The interviewer informed me that this round would consist of two parts: the first half would focus on Leadership Principles (LP), and the second half would be a coding challenge. The LP round went well, and soon, I moved on to the coding part. The problem was similar to detecting a cycle in a graph. I began by explaining my approach, thinking out loud. To my surprise, the interviewer asked me to code the entire solution first and review it later. This caught me off guard, and for a moment, I felt unsettled. When I finally started coding, my mind went blank. However, I decided to take small steps and began coding the parts I was confident about. Gradually, I managed to piece together an almost correct solution. Next, I started the dry run. After testing the code with basic cases, I was convinced it was correct. But then, the interviewer introduced a test case that was completely unexpected—and my solution failed.
+
+At that point, I thought I had bombed the interview. Time was running out, and I was feeling the pressure. Suddenly, it struck me that removing a specific if condition would make my code handle the edge case the interviewer had mentioned.(I was considering undirected graph instead of directed graph). I quickly implemented the fix and explained my reasoning just as the time ran out. I left the interview feeling uncertain. I was able to code a working solution, but there was still a lingering doubt in my mind if I had done everything correctly. Overall the interviewer was good.
+
+**ROUND 2 (28min LP + 31min coding + 3min questions) (Probably Bar-Raiser)**  
+This round followed immediately after the previous one, with the same format. However, this time the LP (Leadership Principles) questions were very challenging. The interviewer delved deeply into the details of each situation—so much so that, at one point, even I couldn’t remember what I had done! To prepare for the LP section, I had revisited stories from my past experiences. I didn’t want to risk creating fake stories, as I’m not good at that. The interviewer maintained a completely neutral expression throughout, which added to the stress. As if that wasn’t enough, the noise cancellation on my earbuds suddenly turned off, signalling that the battery was low. I quickly switched to speaker mode mid-conversation. At one point, the interviewer even mentioned that he couldn’t understand what I was trying to convey—another moment where I felt like I was bombing the interview.
+
+Somehow, I managed to get through all the LP questions and finally moved on to the coding portion. By this time, I was already feeling a bit nervous. When the problem was presented, it was a bit different from any standard LeetCode problem I had seen. The question had two parts, and the interviewer instructed me to solve the first part first. I tackled it, did a dry run, and explained why it could be represented as a recursion problem.
+
+With 10 minutes left on the clock, the interviewer asked me to solve the more complex part of the problem. It took me a few moments to come up with a solution. While thinking aloud, I explained my thought process to the interviewer. After some back-and-forth discussion, I finally arrived at the correct solution and performed a quick dry run—with just one minute to spare! The interviewer seemed satisfied with my solution.
+
+At the end of the interview, I asked about their work. For the first time, I saw him smiling. I also asked a specific question about one of the AWS services, which led to good discussion for next 5 minutes. I think I nailed the technical part in this one. Overall, the interviewer seemed to be very experienced and he could put anyone in stress during interview.
+
+**ROUND 3 (18min LP + 40min Coding + 3min questions)**  
+By this time, I was feeling nervous but still confident as last technical was good. Next interviewer was very friendly. He actually eased all the stress I had from the previous round. The LP (Leadership Principles) part was relatively straightforward and took about 18 minutes to complete. He seem to have like some of the experience I shared.
+
+This was the Low-Level Design (LLD) round for the coding part, and the question I received was very similar to design a Hotel Management System or LRU cache with two specific methods to implement(add and remove). I asked few questions to get idea of how much complexity I need to handle.  I started with a naive approach, using a list for the implementation. Then, I explained how adding a cache (using a hashmap) could reduce the remove operation's time complexity to O(1).
+
+Gradually, I refined the solution to achieve O(1) complexity for both required features by incorporating a Doubly Linked List. At this stage, I had implemented only the necessary classes, planning to add methods as needed. I was writing code in python so for every class I would write pass keyword. Sometimes I add a class I would need but immediately decide to remove it. Basically, I was talking to myself out loud. I also justified my choice for eg why Doubly Linked List over a Singly Linked List.
+
+While coding, I mentioned alternative approaches I might consider in the future. The interview initially told me to keep the design simple, but still seem to like that I am thinking it from reusability and scalability perspective. For instance, designing these classes in a way that they wouldn't depend on any specific data structure by applying strategy design pattern. Although I didn’t implement this during the interview, I thoroughly explained the idea.
+
+When I finished, the interviewer remarked that my explanation and design choices was quite good. Finally, when asked if I had any questions, I inquired about the work he is doing at Amazon. Overall, the interview was very friendly. It felt like it was discussion rather than an interview.
+
+**FINAL THOUGHTS**  
+I’m currently waiting for the results. In my opinion, the interview went well, apart from a few hiccups. I promise to share more about my background and how I prepared for the interview(I have did months of grinding). I won’t be sharing the exact questions due to their policy against doing so(I don't want to risk it, this is very few option I have). However, I can say that the questions were fairly standard. I feel lucky not to have any twisted questions in LP and for coding. 
+
+My final advice: practice for interviews, especially for situations where you might be asked unexpected, out-of-the-blue questions. Even if the questions are simple, you could mess up due to pressure.
+
+**OPTIONAL TO READ**  
+Being an international student makes this even more challenging. For me, Amazon is one of the very few options(I know outcomes of FAANG can be based a lot on luck and can lead to misery when you put so much grinding into it. But right now I am betting everything on "hope"). Many other companies rejected me because they were seeking candidates with 4+ years of experience for a new grad role.(This was reason for one of rejection I had after an amazing interview). The current job market is tough, I want to get free of this loop and actually work on some of the ideas I have in technology. I’ve learned so much from this community, which is why I decided to write this detailed post—to hopefully help at least one person who is in a situation similar to mine.
+
+Edit 1 : Got the offer from Amazon and accepted it !!
+
+Edit 2 : Detailed preparation  
+[https://www.reddit.com/r/leetcode/comments/1h5d3bc/a\_detailed\_guide\_on\_how\_i\_prepared\_for\_an/](https://www.reddit.com/r/leetcode/comments/1h5d3bc/a_detailed_guide_on_how_i_prepared_for_an/)
+
+COMMENTS:
+
+[deleted]
+
+Hope you get it. 
+Being an international student myself, i know it is hard. Im currently on opt doing unpaid internship and got my final interview on 22nd. I just want to get out of this cycle.
+
+How long did it take you to hear back after applying to get an interview?

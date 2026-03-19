@@ -1,0 +1,36 @@
+{
+  "company": "Amazon",
+  "industry": "Technology",
+  "official_sources": {
+    "careers_url": "https://www.amazon.com/Careers/b?node=14201851",
+    "jobs_url": "https://www.amazon.jobs/en/search",
+    "hiring_process_url": "https://www.amazon.com/",
+    "interview_structure_url": "https://www.amazon.com/",
+    "culture_url": "https://www.aboutamazon.com/what-we-do/prime",
+    "faq_url": "https://www.amazon.com/"
+  },
+  "community_sources": {
+    "salary_source": [
+      {
+        "label": "Levels.fyi",
+        "url": "https://www.amazon.com/"
+      },
+      {
+        "label": "Indeed",
+        "url": "https://www.amazon.com/"
+      }
+    ],
+    "review_source": [
+      {
+        "label": "Glassdoor",
+        "url": "https://www.amazon.com/"
+      },
+      {
+        "label": "Comparably",
+        "url": "https://www.amazon.com/"
+      }
+    ],
+    "reddit_threads": []
+  },
+  "last_updated": "2026-03-14"
+}

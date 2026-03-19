@@ -1,0 +1,30 @@
+TITLE: Google New Grad Interview
+
+POST: 
+I’m writing this right after finishing my last technical interview.
+
+I had four interviews overall, starting with the behavioral (Googlyness) interview and ending with three technical coding interviews.
+
+I was fortunate to land amazing interviewers, which I didn’t expect given all the Reddit posts I've read about people meeting serious, expressionless interviewers.
+
+The questions weren’t too difficult:
+
+Question 1: Interval question: I managed to find the optimal solution.
+
+Question 2: Graph question: I found a solution, but I wasn’t asked for the optimal one.
+
+Question 3: Trie question: I couldn’t fully solve it within the time, but I was very close.
+
+The most important aspect I can highlight from my interviews is the importance of clarifying the questions, explaining my approaches, and discussing the trade-offs in time and space complexity. I made sure to verbalize my thought process as I programmed, making sure there were no long pauses.
+
+I’ll keep you all posted on the results when I receive them.
+
+COMMENTS:
+
+Keep us updated! I also finished my onsite today and had think I had pretty much the same results as you, but I was unlucky enough to get one of the expressionless/overly serious interviewers for one of my rounds :/
+
+[deleted]
+
+Good luck! I have my new grad interview with Google in 2 weeks. May I dm you?
+
+Hey, was this for 2025 newgrad roles?

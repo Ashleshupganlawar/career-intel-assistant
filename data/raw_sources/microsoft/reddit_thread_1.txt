@@ -1,0 +1,19 @@
+TITLE: Is working at Microsoft as a software engineer really that stressful?
+
+POST: Hello everyone, this is not a personal experience but rather a close one. My partner, with whom I live, has been working at Microsoft as a software engineer for a little over a year. Ever since he joined, everything has changed—he’s stressed all the time, constantly works overtime, even on holidays and weekends. When he’s on call, he doesn’t sleep well or eat properly. He tells me that his teammates are not very collaborative or willing to help; they are more individualistic.
+
+I even overheard a meeting with his direct manager once, where the manager asked if they felt pressured. Everyone answered yes, and the manager simply said that’s just Microsoft’s culture, that there was nothing to do but adapt… It makes me really sad to see how my partner has changed in what we initially thought would be his dream job. The benefits are excellent, but I don’t think they make up for the physical and emotional toll it has taken on him and our relationship.
+
+I’m also a software engineer, and of course, at some point in my career, I dreamed of working at a big tech company like Microsoft. I wonder, is it really this bad for everyone? Or did we just have bad luck?
+
+Thank you for your replies 
+
+COMMENTS:
+
+It is a giant company with many different teams that all have their own culture. Many parts of the company are not like that at all, I've never been on a team that bad. Your partner should look for another position internally that has a less terrible culture. My current job is extremely chill, and is the reason I stay at Microsoft compared to other options.
+
+During the Ballmer years, there were some key defections. One became a sherpa for a while and ended up writing a memoir. When asked why he moved from Seattle to the Himalayas, he responded with words to the effect of, "If you climb high enough, you can't hear Ballmer scream."
+
+All tech is fairly stressful right now. But it's relative. Does your partner have a mentor? You can DM me if you like and I can reach out to him internally, I'm a GM in what is likely a different org, and am happy to walk through what can help.
+
+He's on a bad team with a bad manager. If that is combined with either a lot of fear of loosing your job, or being a people pleaser or having poor boundaries, it can be quite stressful.

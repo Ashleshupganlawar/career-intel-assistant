@@ -1,0 +1,43 @@
+TITLE: Google onsite interview early career
+
+POST: 
+what up y all! I’m a recent comp science grad from a mid state school in California . I recently had my on site interview with Google.
+
+Here’s a lil breakdown 
+
+1. Googlyness Round: Started with an introduction and then bunch of questions about past experience followed by my work style. The interviewer was an SDE himself and he really liked my past projects. 
+Best case scenario: Strong hire 
+Worst case scenario: Hire
+
+2. Technical 1: It didn’t go really well cause the guy was a total alphageek. I was able to solve the coding problem and the follow up but was not interested in looking at code at all. Kinda judged me for not knowing the technical term for prefix and suffix maximum sub array. The question was about sliding window.
+Best case scenario: Leaning hire
+Worst case scenario: Leaning no hire
+
+3. Technical 2: It went really well. The interviewer gave me biparite graph problem. I was able to answer all of her follow up questions and was able to provide her with an optimal solution. She really liked but she had a different solution in her head which was easier. She came to consensus with me that both her and my solution will provide the same time complexity. Couldn’t ask her any questions at the end as the time was up.
+Best case scenario: Hire
+Worst case scenario: Leaning hire
+
+3. Technical 3: The best out of all. The guy asked me a backtracking question and I was able to solve the question and even solved the follow up question. He really liked my solution although he hadn’t seen it before. I was able to ask him a good question at the end.
+Best case scenario: Strong hire
+Worst case scenario: Hire 
+
+So what do you all think? My fellow peers who have given an interview at google or any FAANG. I know luck plays a big factor but wanted to know your thoughts 😅
+
+
+Edit: I had an extra round because HC wanted more confirmation and positive signal. I had a strong hire in the extra round as well made it to team matching then got rejected. Sorry I just realized I missed a big part of the story. 
+
+COMMENTS:
+
+Looks like your rounds went well. Best Case: HC Pass, Worst Case: Extra tech round
+
+&gt;Leaning
+
+Woah, when people say "lean hire" or "lean no hire" do they mean it like "leaning towards" ? I always read it like "lean meat" like it is just a less substantial "yes" haha
+
+Ends up meaning the same thing, it just never occurred to me that it might be a verb haha
+
+In 2019 I had 4 good rounds and 1 sucked because I couldn't optimize it and they gave me 2 more interviews.  This year they put me on hold because they asked all similar questions. Hope for the best but keep interviewing
+
+I’ve got my interview in the next few days! What did you do to prepare for the coding interviews?
+
+.

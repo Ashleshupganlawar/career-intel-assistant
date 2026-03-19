@@ -1,0 +1,62 @@
+{
+  "company": "Amazon",
+  "industry": "Technology",
+  "official_sources": {
+    "careers_url": "https://www.amazon.com/Careers/b?node=14201851",
+    "jobs_url": "https://www.amazon.jobs/en/search",
+    "hiring_process_url": "https://www.amazon.com/",
+    "interview_structure_url": "https://www.amazon.com/",
+    "culture_url": "https://www.aboutamazon.com/what-we-do/prime",
+    "faq_url": "https://www.amazon.com/"
+  },
+  "community_sources": {
+    "salary_source": [
+      {
+        "label": "Levels.fyi",
+        "url": "https://www.amazon.com/"
+      },
+      {
+        "label": "Indeed",
+        "url": "https://www.amazon.com/"
+      }
+    ],
+    "review_source": [
+      {
+        "label": "Glassdoor",
+        "url": "https://www.amazon.com/"
+      },
+      {
+        "label": "Comparably",
+        "url": "https://www.amazon.com/"
+      }
+    ],
+    "reddit_threads": []
+  },
+  "company_overview": "Amazon is a major employer with role-specific hiring tracks and broad job families.",
+  "official_hiring_process": "Structured, role-specific hiring with recruiter screening and interview rounds where applicable.",
+  "hiring_trends_summary": "Use official jobs pages and recurring job families to track hiring patterns by location and role type.",
+  "salary_summary": "Community salary references are available; interpret as directional rather than definitive.",
+  "culture_summary_official": "Official messaging emphasizes inclusive hiring, preparation guidance, and role fit.",
+  "culture_summary_community": "Community sentiment appears mixed and team-dependent based on repeated discussion patterns.",
+  "interview_experience_summary": "Community reports commonly mention multi-round interviews and behavioral + technical depth.",
+  "common_interview_topics": [
+    "Leadership Principles",
+    "behavioral questions in STAR format",
+    "system design",
+    "loop interview structure",
+    "coding rounds / DSA"
+  ],
+  "reddit_common_themes": [
+    "Leadership Principles are central"
+  ],
+  "reddit_red_flags": [
+    "long interview process",
+    "mechanical interview experience"
+  ],
+  "reddit_positive_signals": [
+    "large hiring footprint"
+  ],
+  "final_blended_insight": "Official process appears structured; community feedback suggests outcomes depend strongly on team and role.",
+  "notes": "Generated via heuristic fallback because model inference was unavailable. Treat as draft profile.",
+  "last_updated": "2026-03-14"
+}

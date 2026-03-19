@@ -1,0 +1,29 @@
+TITLE: How I Cracked Amazon Leadership Principle Interview
+
+POST: Hi all, a few months ago, I [cracked the Amazon interview](https://www.reddit.com/r/leetcode/comments/1dcotrk/got_selected_at_amazon_india/). During the interview, I was asked a few leadership principle questions as well. I wanted to share the tips I gathered to crack the interview: 
+
+You will not be asked any direct questions on leadership. Instead, Amazon will assess your leadership qualities based on the behavior you have demonstrated in your prior work, both technically and non-technically. For example:
+
+1. \[Technical\] What was the most technically challenging project you worked on?
+
+2. \[Technical\] What was the most innovative challenge project you worked on?
+
+3. \[Technical\] Did you face a major issue in production?
+
+4. \[Non Technical\] Did you ever miss your deadlines? Why?
+
+5. \[Non-Technical\] Walk me through a feature you developed. How did you measure its success?
+
+Hence, a few days before the interview, you should write down all difficult and challenging situations you have faced in your work, technically and non-technically. This will help you remember the best answers during the interview.
+
+The expectation of the answers is based on the seniority of the role you are interviewing for. You should also go through all the 16 Amazon leadership principles and have some examples in your prior experience that demonstrate them. I have detailed all the 16 leadership principles and these tips [in this blog](https://techcareergrowth.beehiiv.com/p/how-to-prepare-for-amazon-leadership-principle-interview).
+
+COMMENTS:
+
+I hate the current state of interviewing it's just a huge circle jerk. Memorize answers while the interviewer checking his ridiculous checkboxes.
+
+Amazonian here. The number of people caught lying during LP interviews is hilarious. 
+
+LP questions shouldn’t be hard to prepare for if you’ve actually done what you claim you’ve done. Just get good at articulating your experience into stories, the rest is simple. 
+
+Pro tip: Don’t lie, we’ll dive deep and find out.

@@ -1,0 +1,72 @@
+TITLE: Google interview
+
+POST: Problem (yes the phrasing was very weird):
+
+&gt;To commence your investigation, you opt to concentrate exclusively on the pathways of the pioneering underwater city, a key initiative to assess the feasibility of constructing a city in outer space in the future.
+
+&gt;In this visionary underwater community, each residence is assigned x, y, z coordinates in a three-dimensional space. To transition from one dwelling to another, an efficient transport system that traverses a network of direct lines is utilized. Consequently, the distance between two points (x₁, y₁, z₁) and (x₂, y₂, z₂) is determined by the formula:
+
+&gt;∣x2​−x1​∣+∣y2​−y1​∣+∣z2​−z1​∣
+
+&gt;(This represents the sum of the absolute value differences for each coordinate.)
+
+&gt;Your task is to identify a route that passes through all 8 houses in the village and returns to the starting point, aiming to minimize the total distance traveled.
+
+&gt;**Data:**
+
+&gt;**Input:**
+
+&gt;Lines 1 to 8: Each line contains 3 integers x, y, and z (ranging from 0 to 10000), representing the coordinates of a house. Line 1 pertains to house 0, continuing in sequence up to line 8, which corresponds to house 7.
+
+&gt;**Output:**
+
+&gt;Line 1: A sequence of 8 integers (ranging from 0 to 7) that signifies the sequence in which the houses are visited.
+
+I had this problem and I solved it with a dfs:
+
+    def solve():
+        houses_coordinates: list[list[int]] = read_matrix(8)
+    
+        start: int = 0
+        visited: list[bool] = [False] * 8
+        visited[start] = True
+    
+        def dist_man(a: list[int], b: list[int]) -&gt; int:
+            return abs(a[0] - b[0]) + abs(a[1] - b[1]) + abs(a[2] - b[2])
+    
+        best_dist: int = 10 ** 14
+        best_path: list[int] = []
+    
+    
+        def dfs(current: int, curr_dist: int, path: list[int]):
+            if all(visited):
+                nonlocal best_dist
+                if (curr_dist + dist_man(houses_coordinates[current], houses_coordinates[start])) &lt; best_dist:
+                    best_dist = curr_dist + dist_man(houses_coordinates[current], houses_coordinates[start])
+                    nonlocal best_path
+                    best_path = path + [start]
+                return
+            for i in range(8):
+                if not visited[i]:
+                    visited[i] = True
+                    dfs(
+                        i,
+                        curr_dist + dist_man(houses_coordinates[current], houses_coordinates[i]),
+                        path + [i]
+                    )
+                    visited[i] = False
+    
+        dfs(start, 0, [start])
+        print(*best_path[:-1])
+
+Was there a better way? The interviewer said they did not care about time complexity since it was the warm up problem so we moved on to the next question but I was wondering if there was something I could've done (in case in the next rounds I get similar questions that are asking for optimistaion)
+
+COMMENTS:
+
+It's a travelling salesman problem in the Manhattan metric. Your solution is basically the bruteforce solution that scales like n!. There is a classic algorithm which uses n\^2 \* 2\^n time using dynamic programming.
+
+God, google interviewers really do love the smell of their own farts...
+
+... this is a warmup problem? Man. I just passed my Amazon OA and will have my final round in a few weeks. This is not making me think optimistically LOL.
+
+Who in the right mind asks this in an interview setting

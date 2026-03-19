@@ -1,0 +1,27 @@
+TITLE: Microsoft Edge
+
+POST: Switched to it last week. Got interested because of the ChatGPT stuff and the integration with Bing.
+
+Highly recommend. I've been around the browser world a few times - Safari, Chrome (workhorse up until last week), FireFox, Brave, Vivaldi, Opera. (Wrote my first "Home Page" in 1993. I'm old. And I suck at design.)
+
+Edge is by far the best browser experience I've had. And Bing, integrated with ChatGPT search, is a very nice step up from Google.
+
+Although I am a long-time Microsoft hater, seems that the Balmer culture has finally been buried.
+
+COMMENTS:
+
+Edge is great if you work for a company that uses M365.
+
+it forces more Microsoft stuff in your face than Chrome does with Google. And that's an impressive feat.
+
+You can use Bing AI chat on Safari as well.
+
+On Safari, bookmark something like this link: https://www.bing.com/search?q=Bing+AI&amp;showconv=1
+
+And then from the top menu in Safari, choose **Develop &gt; User Agent &gt; Edge on macOS**
+
+Seems to work great.
+
+If the developer menu doesn't show, you can enable it from the Safari Preferences: https://support.apple.com/en-ie/guide/safari/sfri20948/mac
+
+And you're right, Satya Nadella and Phil Spencer really brought Microsoft in a new era

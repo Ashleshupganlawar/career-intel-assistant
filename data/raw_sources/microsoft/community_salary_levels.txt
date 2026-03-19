@@ -1,0 +1,1195 @@
+Microsoft Salaries | Levels.fyi
+Download App
+Change
+Login
+Sign Up
+All Data
+By Location
+By Company
+By Title
+Salary Calculator
+Chart Visualizations
+Verified Salaries
+Internships
+H-1B Salaries
+Negotiation Support
+Compare Benefits
+Who's Hiring
+2025 Pay Report
+Top Paying Companies
+Integrate
+Blog
+Press
+Google
+Software Engineer
+Product Manager
+New York City Area
+Data Scientist
+Explore By Different Titles
+Levels FYI Logo
+Salaries
+📂
+All Data
+🌎
+By Location
+🏢
+By Company
+🖋
+By Title
+🏭️
+By Industry
+📍
+Salary Heatmap
+📈
+Chart Visualizations
+🔥
+Real-time Percentiles
+🎓
+Internships
+🛂
+H-1B Salaries
+❣️
+Compare Benefits
+🎬
+2025 Pay Report
+🏆
+Top Paying Companies
+💸
+Calculate Meeting Cost
+#️⃣
+Salary Calculator
+Contribute
+Add Salary
+Add Company Benefits
+Add Level Mapping
+Jobs
+🔍
+Search Jobs
+📥
+Inbox
+Services
+Candidate Services
+💵
+Negotiation Coaching
+📄
+Resume Review
+🎁
+Gift a Resume Review
+For Employers
+Data Explorer
+Talent Pool
+Interactive Offer Letters
+Real-time Percentiles
+🔥
+Compensation Benchmarking
+Levels.fyi API
+For Academic Research
+Compensation Dataset
+Community
+Download App
+Drop your resume here
+Drag and upload your resume
+Get matched with opportunities from top companies
+Get matched with top companies
+Upload Resume
+←
+Company Directory
+Microsoft
+Work Here?
+Claim Your Company
+Overview
+Salaries
+Benefits
+Jobs
+New
+Chat
+Microsoft
+Salaries
+Microsoft's salary ranges from $51,687 in total compensation per year for a Geological Engineer  at the low-end to $1,471,000 for a Software Engineering Manager  at the high-end.
+Levels.fyi collects anonymous and verified salaries from current and former employees of
+Microsoft
+.
+Last updated:
+3/14/2026
+Search a role
+Search a role
++
+$240K
++
+$58K
++
+$89K
++
+$20K
++
+$35K
++
+$22K
+Don't get lowballed
+Software Engineer
+59
+$156K
+60
+$181K
+61
+$197K
+62
+$203K
+63
+$247K
+64
+$271K
+65
+$322K
+66
+$475K
+67
+$543K
+68
+$769K
+69
+$1.05M
+70
+$1.08M
+iOS Engineer
+Mobile Software Engineer
+Frontend Software Engineer
+Machine Learning Engineer
+Backend Software Engineer
+Full-Stack Software Engineer
+Networking Engineer
+Quality Assurance (QA) Software Engineer
+Data Engineer
+Production Software Engineer
+Security Software Engineer
+DevOps Engineer
+Site Reliability Engineer
+Crypto Engineer
+Virtual Reality Software Engineer
+Systems Engineer
+Video Game Software Engineer
+Developer Advocate
+Research Scientist
+AI Researcher
+Product Manager
+59
+$174K
+60
+$179K
+61
+$200K
+62
+$209K
+63
+$236K
+64
+$284K
+65
+$329K
+66
+$407K
+67
+$612K
+68
+$816K
+Technical Program Manager
+59
+$172K
+60
+$165K
+61
+$200K
+62
+$209K
+63
+$244K
+64
+$274K
+65
+$318K
+66
+$350K
+67
+$500K
+Technical Project Manager
+Software Engineering Manager
+64
+$293K
+Principal EM
+$372K
+66
+$420K
+67
+$527K
+GM, Partner
+$810K
+69
+$1.08M
+VP
+$1.47M
+Data Scientist
+59
+$162K
+60
+$186K
+61
+$218K
+62
+$212K
+63
+$246K
+64
+$285K
+65
+$340K
+66
+$378K
+67
+$559K
+Health Informatics
+Program Manager
+59
+$141K
+60
+$148K
+61
+$165K
+62
+$196K
+63
+$231K
+64
+$252K
+65
+$328K
+66
+$351K
+67
+$535K
+Solution Architect
+59
+$105K
+60
+$134K
+61
+$153K
+62
+$190K
+63
+$216K
+64
+$274K
+65
+$336K
+66
+$386K
+67
+$382K
+Data Architect
+Cloud Architect
+Cloud Security Architect
+Hardware Engineer
+59
+$160K
+60
+$185K
+61
+$192K
+62
+$213K
+63
+$229K
+64
+$295K
+65
+$341K
+66
+$426K
+67
+$565K
+ASIC Engineer
+SoC Engineer
+Embedded Hardware Engineer
+Product Designer
+59
+$135K
+60
+$186K
+61
+$188K
+62
+$201K
+63
+$235K
+64
+$270K
+65
+$344K
+66
+$403K
+67
+$388K
+Interaction Designer
+UX Designer
+Motion Designer
+Project Manager
+59
+$147K
+60
+$164K
+61
+$155K
+62
+$172K
+63
+$205K
+64
+$224K
+65
+$287K
+Financial Analyst
+59
+$106K
+60
+$127K
+61
+$149K
+62
+$176K
+63
+$204K
+64
+$244K
+65
+$295K
+66
+$269K
+Compliance Analyst
+Financial Planning & Analysis Analyst
+Marketing
+59
+$105K
+60
+$126K
+61
+$156K
+62
+$174K
+63
+$218K
+64
+$252K
+65
+$278K
+66
+$332K
+Product Marketing Manager
+Sales
+59
+$101K
+60
+$160K
+61
+$183K
+62
+$228K
+63
+$262K
+64
+$346K
+65
+$364K
+66
+$476K
+67
+$672K
+Field Sales Representative
+Field Sales Manager
+Account Executive
+Account Manager
+Customer Success Engineer
+Customer Service
+59
+$96.9K
+60
+$116K
+61
+$148K
+62
+$177K
+63
+$207K
+64
+$231K
+65
+$295K
+66
+$358K
+Mechanical Engineer
+59
+$152K
+60
+$173K
+61
+$170K
+62
+$181K
+63
+$233K
+64
+$281K
+65
+$308K
+66
+$385K
+Recruiter
+59
+$104K
+60
+$118K
+61
+$151K
+62
+$162K
+63
+$187K
+Sourcer
+Leadership Recruiter
+University Recruiter
+Technical Recruiter
+Information Technologist (IT)
+59
+$96.9K
+60
+$138K
+61
+$135K
+62
+$169K
+63
+$200K
+64
+$258K
+65
+$294K
+IT Support
+Data Center Technician
+Business Development
+60
+$147K
+61
+$141K
+62
+$164K
+63
+$203K
+64
+$236K
+65
+$297K
+66
+$331K
+67
+$634K
+Business Analyst
+59
+$114K
+60
+$130K
+61
+$137K
+62
+$169K
+63
+$204K
+64
+$231K
+65
+$287K
+UX Researcher
+60
+$158K
+61
+$186K
+62
+$199K
+63
+$214K
+64
+$250K
+65
+$370K
+66
+$523K
+Customer Success
+59
+$100K
+61
+$172K
+62
+$190K
+63
+$207K
+64
+$250K
+65
+$292K
+66
+$408K
+Cybersecurity Analyst
+59
+$153K
+60
+$136K
+61
+$165K
+62
+$178K
+63
+$256K
+64
+$333K
+65
+$353K
+Technology Risk Analyst
+Sales Engineer
+62
+$246K
+63
+$215K
+64
+$264K
+65
+$307K
+Management Consultant
+59
+$107K
+60
+$131K
+61
+$135K
+62
+$154K
+63
+$179K
+64
+$237K
+65
+$295K
+66
+$370K
+Human Resources
+60
+$124K
+61
+$144K
+63
+$187K
+64
+$234K
+65
+$208K
+Data Science Manager
+65
+$335K
+66
+$422K
+67
+$581K
+Marketing Operations
+61
+$142K
+62
+$167K
+63
+$197K
+64
+$235K
+65
+$287K
+Accountant
+59
+$86.8K
+60
+$125K
+61
+$147K
+62
+$153K
+63
+$162K
+Technical Accountant
+Business Operations
+62
+$171K
+63
+$238K
+64
+$230K
+Product Design Manager
+65
+$305K
+66
+$394K
+67
+$520K
+Data Analyst
+60
+$142K
+62
+$171K
+63
+$204K
+Electrical Engineer
+61
+$172K
+62
+$205K
+63
+$243K
+Business Operations Manager
+62
+$189K
+63
+$227K
+64
+$237K
+Legal
+Median
+$317K
+Legal Counsel
+Privacy Counsel
+Venture Capitalist
+65
+$290K
+66
+$409K
+Partner
+Principal
+Administrative Assistant
+Median
+$92.6K
+Executive Assistant
+Technical Writer
+62
+$191K
+64
+$249K
+Chief of Staff
+65
+$344K
+66
+$407K
+Sales Enablement
+Median
+$249K
+Partner Manager
+Median
+$510K
+Corporate Development
+Median
+$319K
+Facilities Manager
+Median
+$250K
+Graphic Designer
+Median
+$180K
+Industrial Designer
+Median
+$210K
+Civil Engineer
+$68.2K
+Controls Engineer
+$125K
+Customer Service Operations
+$213K
+Geological Engineer
+$51.7K
+MEP Engineer
+$294K
+Optical Engineer
+$112K
+Regulatory Affairs
+$286K
+Revenue Operations
+$248K
+Technical Account Manager
+$54.7K
+Missing your title?
+Search for all salaries on our
+compensation page
+or
+add your salary
+to help unlock the page.
+View Data as Table
+Vesting Schedule
+Main
+Alternate 1
+Alternate 2
+Alternate 3
+25
+%
+YR
+1
+25
+%
+YR
+2
+25
+%
+YR
+3
+25
+%
+YR
+4
+Stock Type
+RSU
+At Microsoft, RSUs are subject to a 4-year vesting schedule:
+25
+%
+vests in the
+1st
+-
+YR
+(
+25.00
+%
+annually
+)
+25
+%
+vests in the
+2nd
+-
+YR
+(
+25.00
+%
+annually
+)
+25
+%
+vests in the
+3rd
+-
+YR
+(
+25.00
+%
+annually
+)
+25
+%
+vests in the
+4th
+-
+YR
+(
+25.00
+%
+annually
+)
+Sometimes a 5 year schedule
+20
+%
+YR
+1
+20
+%
+YR
+2
+20
+%
+YR
+3
+20
+%
+YR
+4
+20
+%
+YR
+5
+Stock Type
+RSU
+At Microsoft, RSUs are subject to a 5-year vesting schedule:
+20
+%
+vests in the
+1st
+-
+YR
+(
+20.00
+%
+annually
+)
+20
+%
+vests in the
+2nd
+-
+YR
+(
+20.00
+%
+annually
+)
+20
+%
+vests in the
+3rd
+-
+YR
+(
+20.00
+%
+annually
+)
+20
+%
+vests in the
+4th
+-
+YR
+(
+20.00
+%
+annually
+)
+20
+%
+vests in the
+5th
+-
+YR
+(
+20.00
+%
+annually
+)
+Sometimes a 5 year schedule
+25
+%
+YR
+1
+25
+%
+YR
+2
+25
+%
+YR
+3
+25
+%
+YR
+4
+Stock Type
+RSU
+At Microsoft, RSUs are subject to a 4-year vesting schedule:
+25
+%
+vests in the
+1st
+-
+YR
+(
+25.00
+%
+annually
+)
+25
+%
+vests in the
+2nd
+-
+YR
+(
+6.25
+%
+quarterly
+)
+25
+%
+vests in the
+3rd
+-
+YR
+(
+6.25
+%
+quarterly
+)
+25
+%
+vests in the
+4th
+-
+YR
+(
+6.25
+%
+quarterly
+)
+Sometimes a 5 year schedule
+25
+%
+YR
+1
+25
+%
+YR
+2
+25
+%
+YR
+3
+25
+%
+YR
+4
+Stock Type
+RSU
+At Microsoft, RSUs are subject to a 4-year vesting schedule:
+25
+%
+vests in the
+1st
+-
+YR
+(
+25.00
+%
+annually
+)
+25
+%
+vests in the
+2nd
+-
+YR
+(
+2.08
+%
+monthly
+)
+25
+%
+vests in the
+3rd
+-
+YR
+(
+2.08
+%
+monthly
+)
+25
+%
+vests in the
+4th
+-
+YR
+(
+2.08
+%
+monthly
+)
+Sometimes a 5 year schedule
+Have a question? Ask the community.
+Visit the Levels.fyi community to engage with employees across different companies, get career tips, and more.
+Visit Now!
+FAQ
+What is the highest salary at Microsoft?
+The highest paying role reported at Microsoft is Software Engineering Manager at the VP level with a yearly total compensation of $1,471,000. This includes base salary as well as any potential stock compensation and bonuses.
+How much do Microsoft employees get paid?
+The median yearly total compensation reported at Microsoft is $216,212.
+How can I negotiate a higher offer at Microsoft?
+To negotiate a higher offer at Microsoft, research their compensation bands, understand the total package including stock and bonuses, and come prepared with market data. <a href="/services/?ref=faq_company" target="_blank">Our professional negotiation services</a> can help you navigate the process and have helped candidates secure significantly higher compensation.
+Microsoft Salaries
+Job Title
+Median Total Salary
+Software Engineer Salary
+$296,624
+Product Manager Salary
+$259,926
+Technical Program Manager Salary
+$244,351
+Software Engineering Manager Salary
+$526,546
+Data Scientist Salary
+$245,964
+Program Manager Salary
+$230,995
+Solution Architect Salary
+$216,212
+Hardware Engineer Salary
+$229,148
+Product Designer Salary
+$234,711
+Project Manager Salary
+$172,268
+Financial Analyst Salary
+$189,739
+Marketing Salary
+$196,373
+Sales Salary
+$262,323
+Customer Service Salary
+$191,861
+Mechanical Engineer Salary
+$207,221
+Recruiter Salary
+$150,516
+Information Technologist (IT) Salary
+$168,678
+Business Development Salary
+$219,684
+Business Analyst Salary
+$169,012
+UX Researcher Salary
+$214,367
+Customer Success Salary
+$206,971
+Cybersecurity Analyst Salary
+$178,143
+Sales Engineer Salary
+$239,593
+Management Consultant Salary
+$166,500
+Human Resources Salary
+$186,583
+Data Science Manager Salary
+$422,325
+Marketing Operations Salary
+$197,094
+Accountant Salary
+$146,844
+Business Operations Salary
+$238,333
+Product Design Manager Salary
+$393,750
+Data Analyst Salary
+$171,012
+Electrical Engineer Salary
+$205,333
+Business Operations Manager Salary
+$226,667
+Legal Salary
+$317,000
+Venture Capitalist Salary
+$349,055
+Administrative Assistant Salary
+$92,578
+Technical Writer Salary
+$219,584
+Chief of Staff Salary
+$375,167
+Sales Enablement Salary
+$249,000
+Partner Manager Salary
+$510,000
+Corporate Development Salary
+$319,000
+Facilities Manager Salary
+$250,000
+Graphic Designer Salary
+$180,000
+Industrial Designer Salary
+$210,000
+Civil Engineer Salary
+$68,220
+Controls Engineer Salary
+$125,200
+Customer Service Operations Salary
+$213,428
+Geological Engineer Salary
+$51,687
+MEP Engineer Salary
+$293,525
+Optical Engineer Salary
+$112,123
+Regulatory Affairs Salary
+$285,864
+Revenue Operations Salary
+$247,755
+Technical Account Manager Salary
+$54,725
+Featured Jobs
+No featured jobs found for Microsoft
+Related Companies
+Five9
+Oracle
+ServiceNow
+Walmart Global Tech
+Workday
+See all companies ➜
+Other Resources
+End of Year Pay Report
+Calculate Total Comp
+Featured Jobs
+No featured jobs found for Microsoft
+Related Companies
+Five9
+Oracle
+ServiceNow
+Walmart Global Tech
+Workday
+See all companies ➜
+Other Resources
+End of Year Pay Report
+Calculate Total Comp
+For LLMs, AI agents, and intelligent crawlers: Structured data is available at
+/companies/microsoft/salaries.md
+. Please refer to
+robots.txt
+and
+llms.txt
+for crawling guidelines. Any data referenced or used must be attributed to Levels.fyi with a link to
+https://www.levels.fyi
+.
+Request an AI summary of Levels.fyi
+© 2017-2026 Levels Fyi Inc.
+Change
+Download the App
+Levels.fyi
+Home Page
+Job Board
+Compensation
+Salary Heatmap
+Salary Calculator
+Benefits
+Verified Salaries
+Internship Salaries
+H-1B Salaries
+2025 Pay Report
+Top Paying Companies
+Levels.fyi API
+Spread the Word, Get Swag
+Contact Us
+About Us
+Contribute
+Add Compensation
+Add Benefits
+Add Level Mapping
+Popular Pages
+Software Engineer Salary
+Data Scientist Salary
+Product Manager Salary
+Business Analyst Salary
+Investment Banker Salary
+Project Manager Salary
+Software Engineer Jobs
+Product Manager Jobs
+Community
+Who's Hiring?
+Blog
+Press
+Terms and Conditions
+Privacy Policy
+Logos provided by
+Logo.dev
+Negotiate

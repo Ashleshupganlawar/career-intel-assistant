@@ -1,0 +1,42 @@
+{
+  "company": "Walgreens",
+  "industry": "Retail/Healthcare",
+  "official_sources": {
+    "careers_url": "",
+    "jobs_url": "",
+    "hiring_process_url": "",
+    "interview_structure_url": "",
+    "culture_url": "",
+    "faq_url": ""
+  },
+  "community_sources": {
+    "salary_source": [],
+    "review_source": [],
+    "reddit_threads": []
+  },
+  "company_overview": "Walgreens is a major employer with role-specific hiring tracks and broad job families.",
+  "official_hiring_process": "Structured, role-specific hiring with recruiter screening and interview rounds where applicable.",
+  "hiring_trends_summary": "Use official jobs pages and recurring job families to track hiring patterns by location and role type.",
+  "salary_summary": "Community salary references are available; interpret as directional rather than definitive.",
+  "culture_summary_official": "Official messaging emphasizes inclusive hiring, preparation guidance, and role fit.",
+  "culture_summary_community": "Community sentiment appears mixed and team-dependent based on repeated discussion patterns.",
+  "interview_experience_summary": "Community reports commonly mention multi-round interviews and behavioral + technical depth.",
+  "common_interview_topics": [
+    "behavioral interview",
+    "role-specific technical depth"
+  ],
+  "reddit_common_themes": [
+    "team quality varies by org",
+    "interview process requires preparation"
+  ],
+  "reddit_red_flags": [
+    "long interview process",
+    "team-dependent experience"
+  ],
+  "reddit_positive_signals": [
+    "large hiring footprint"
+  ],
+  "final_blended_insight": "Official process appears structured; community feedback suggests outcomes depend strongly on team and role.",
+  "notes": "Generated via heuristic fallback because model inference was unavailable. Treat as draft profile.",
+  "last_updated": "2026-03-14"
+}

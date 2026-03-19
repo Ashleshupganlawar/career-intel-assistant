@@ -1,0 +1,36 @@
+{
+  "company": "Apple",
+  "industry": "Technology",
+  "official_sources": {
+    "careers_url": "https://www.apple.com/",
+    "jobs_url": "https://www.apple.com/",
+    "hiring_process_url": "https://www.apple.com/",
+    "interview_structure_url": "https://www.apple.com/",
+    "culture_url": "https://www.apple.com/",
+    "faq_url": "https://www.apple.com/"
+  },
+  "community_sources": {
+    "salary_source": [
+      {
+        "label": "Levels.fyi",
+        "url": "https://www.apple.com/"
+      },
+      {
+        "label": "Indeed",
+        "url": "https://www.indeed.com/cmp/Apple"
+      }
+    ],
+    "review_source": [
+      {
+        "label": "Glassdoor",
+        "url": "https://www.apple.com/"
+      },
+      {
+        "label": "Comparably",
+        "url": "https://www.apple.com/"
+      }
+    ],
+    "reddit_threads": []
+  },
+  "last_updated": "2026-03-14"
+}

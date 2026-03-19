@@ -1,0 +1,37 @@
+TITLE: Microsoft Edge is a much better browser than Google Chrome
+
+POST: &amp;#x200B;
+
+https://preview.redd.it/kioxt1gf38dc1.png?width=1919&amp;format=png&amp;auto=webp&amp;s=431dd4104c59811d12d89ee0ac235c15350ea837
+
+If you don't care about your privacy and just want a good chromium-based browser there is literally no point in using Google Chrome when you got one already pre-installed on your system. Not only does it run better than Chrome, but it also has tons of features that Chrome does not have. At first launch, Edge is a bit overwhelming with its default settings and seems a bit bloated with all of its features, but it's extremely easy to turn them off in the settings (it literally takes under 3 minutes). Edge feature wise is literally 10 years ahead of Chrome.
+
+&amp;#x200B;
+
+Edge has the best PDF reader, smooth scrolling is excellent, startup boost, vertical tabs, best integration with Windows itself, no issues with drm content (try watching 4k content from netflix on any other browser), sleeping tabs... Of course, not everyone needs tons of features and just want a basic browsing experience, and that's where Chrome shines, but you can also disable all of those features on Edge.
+
+&amp;#x200B;
+
+Now, I see a lot of people hating Microsoft because of how aggressive they are with trying to make people stick with their products, but Google does the same shit. Go to youtube, google docs, basically any of their websites and you will occassionally get prompts about how you should use install Chrome instead. I've had this really annoying issue with Google Chrome on my linux workstation where I would explicitly refuse to set Chrome as the default internet browser (I need Chrome because of the page translation tool), but it would still set itself as the default browser without my permission!
+
+&amp;#x200B;
+
+**At the end of the day browsers are just tools, and you should use any tool that does the job for you.**
+
+COMMENTS:
+
+I second this(I said as I browse youtube using firefox)
+
+
+
+But edge is actually good, if you're using edge to download other browser, please download anything other than chrome
+
+Personally, Edge becomes to chunky browser now. I haven't used chrome in almost 6-7 years. I use Brave and then Edge because I like vertical tabs and after I switched to Mac. Edge is a very power efficient browser. And now I use Safari and deleted Edge from the device. 
+
+Because a lot of Microsoft bloatware annoying so much a lot of functions I have never used. I use a browser to go to websites and safari is much better for me. It's simple, although chromium is faster.
+
+And I have tried returning to chrome. To be honest, chrome is quite nice, simple especially chrome refeesh 2023.
+
+Finally edge is getting some appreciation 💯which it totally deserves
+
+Does it have uBlock Origin?

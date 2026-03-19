@@ -1,0 +1,24 @@
+TITLE: Amazon Interview Experience 
+
+POST: Hi everyone,
+
+I recently went through the Amazon's 3 hour loop interview. Got an email to take up the OA.
+Heard back from the recruiter the next day and they scheduled my loop interview.
+
+Round 1 - 30 min LP and 30 minutes LLD (Parking Lot with many constraints). I answered the LP questions well but the LLD was off to a slow start. I got all the requirements, classes and methods listed but couldn't code much.
+
+Round 2 (Coding) - Got a Graph problem. Used DFS approach. Did not have time to discuss time and space complexities. At the end the interviewer himself coded some portion of it.
+
+Round 3 (Bar Raiser) - Completely LP based. At the end the interviewer said he was happy with the answers I gave him.
+
+Haven't heard back, but what do you guys think the result could be? I am leaning towards a rejection. Let me know.
+
+COMMENTS:
+
+If the interviewer is coding it out for you I think that’s a pretty good sign you’re cooked
+
+Following. I hope you get it
+
+how do you approach LLD questions? Are there any particular resources you followed? I have one scheduled soon and i was wondering if you have any tips. Thanks :)
+
+Round 1 what do you mean you didn’t code much ?

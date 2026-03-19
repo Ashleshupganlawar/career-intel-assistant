@@ -1,0 +1,139 @@
+﻿company,industry
+Amazon,Technology
+Microsoft,Technology
+Google,Technology
+Apple,Technology
+Meta,Technology
+NVIDIA,Technology
+Intel,Technology
+IBM,Technology
+Oracle,Technology
+Cisco,Technology
+Salesforce,Technology
+Adobe,Technology
+ServiceNow,Technology
+Snowflake,Technology
+Databricks,Technology
+Palantir,Technology
+Uber,Technology
+Airbnb,Technology
+Spotify,Technology
+Netflix,Technology
+Tesla,Automotive/Technology
+Samsung,Technology
+Sony,Technology
+Qualcomm,Technology
+HP,Technology
+Dell,Technology
+Atlassian,Technology
+Shopify,Technology
+Stripe,Fintech
+Square (Block),Fintech
+PayPal,Fintech
+Robinhood,Fintech
+Coinbase,Fintech
+Visa,Fintech
+Mastercard,Fintech
+JPMorgan Chase,Finance
+Goldman Sachs,Finance
+Morgan Stanley,Finance
+Bank of America,Finance
+Citigroup,Finance
+Wells Fargo,Finance
+BlackRock,Finance
+Blackstone,Finance
+American Express,Finance
+Capital One,Finance
+Charles Schwab,Finance
+Fidelity Investments,Finance
+State Street,Finance
+Barclays,Finance
+HSBC,Finance
+UBS,Finance
+BNP Paribas,Finance
+Credit Suisse,Finance
+Deutsche Bank,Finance
+PwC,Consulting
+Deloitte,Consulting
+EY,Consulting
+KPMG,Consulting
+Accenture,Consulting
+McKinsey & Company,Consulting
+Boston Consulting Group,Consulting
+Bain & Company,Consulting
+Capgemini,Consulting
+Cognizant,Consulting
+Infosys,Consulting
+TCS,Consulting
+Wipro,Consulting
+HCLTech,Consulting
+DXC Technology,Consulting
+Booz Allen Hamilton,Consulting
+Guidehouse,Consulting
+Slalom,Consulting
+ZS Associates,Consulting
+L.E.K. Consulting,Consulting
+Walmart,Retail
+Target,Retail
+Costco,Retail
+Home Depot,Retail
+Lowe’s,Retail
+Best Buy,Retail
+CVS Health,Retail/Healthcare
+Walgreens,Retail/Healthcare
+Kroger,Retail
+PepsiCo,Consumer Goods
+Coca-Cola,Consumer Goods
+Procter & Gamble,Consumer Goods
+Unilever,Consumer Goods
+Nestle,Consumer Goods
+Johnson & Johnson,Healthcare
+Pfizer,Healthcare
+Moderna,Healthcare
+AbbVie,Healthcare
+Merck,Healthcare
+Bristol Myers Squibb,Healthcare
+UnitedHealth Group,Healthcare
+Anthem (Elevance Health),Healthcare
+Cigna,Healthcare
+Humana,Healthcare
+Siemens,Engineering
+GE Aerospace,Engineering
+Honeywell,Engineering
+3M,Engineering
+Boeing,Aerospace
+Lockheed Martin,Aerospace
+Northrop Grumman,Aerospace
+Raytheon,Aerospace
+SpaceX,Aerospace
+Blue Origin,Aerospace
+Ford,Automotive
+General Motors,Automotive
+Toyota,Automotive
+Volkswagen,Automotive
+BMW,Automotive
+Mercedes-Benz,Automotive
+Hyundai,Automotive
+Kia,Automotive
+Uber Freight,Logistics
+FedEx,Logistics
+UPS,Logistics
+Maersk,Logistics
+DHL,Logistics
+Airbus,Aerospace
+SAP,Enterprise Software
+Workday,Enterprise Software
+Intuit,Enterprise Software
+Autodesk,Enterprise Software
+Red Hat,Enterprise Software
+VMware,Enterprise Software
+CrowdStrike,Cybersecurity
+Palo Alto Networks,Cybersecurity
+Fortinet,Cybersecurity
+Zscaler,Cybersecurity
+Okta,Cybersecurity
+Datadog,Cloud
+Cloudflare,Cloud
+DigitalOcean,Cloud
+Twilio,Cloud
+Elastic,Cloud

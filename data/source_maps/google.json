@@ -1,0 +1,36 @@
+{
+  "company": "Google",
+  "industry": "Technology",
+  "official_sources": {
+    "careers_url": "https://www.google.com/",
+    "jobs_url": "https://www.google.com/",
+    "hiring_process_url": "https://www.google.com/",
+    "interview_structure_url": "https://www.google.com/",
+    "culture_url": "https://about.google/",
+    "faq_url": "https://www.google.com/"
+  },
+  "community_sources": {
+    "salary_source": [
+      {
+        "label": "Levels.fyi",
+        "url": "https://www.google.com/"
+      },
+      {
+        "label": "Indeed",
+        "url": "https://www.google.com/"
+      }
+    ],
+    "review_source": [
+      {
+        "label": "Glassdoor",
+        "url": "https://www.google.com/"
+      },
+      {
+        "label": "Comparably",
+        "url": "https://www.google.com/"
+      }
+    ],
+    "reddit_threads": []
+  },
+  "last_updated": "2026-03-14"
+}

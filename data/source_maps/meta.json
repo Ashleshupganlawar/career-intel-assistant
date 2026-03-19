@@ -1,0 +1,38 @@
+{
+  "company": "Meta",
+  "industry": "Technology",
+  "official_sources": {
+    "careers_url": "https://www.meta.com/about/",
+    "jobs_url": "https://www.meta.com/about/",
+    "hiring_process_url": "https://www.meta.com/about/",
+    "interview_structure_url": "https://www.meta.com/about/",
+    "culture_url": "https://www.meta.com/about/",
+    "faq_url": "https://www.meta.com/about/"
+  },
+  "community_sources": {
+    "salary_source": [
+      {
+        "label": "Levels.fyi",
+        "url": "https://www.meta.com/about/"
+      },
+      {
+        "label": "Indeed",
+        "url": "https://www.meta.com/about/"
+      }
+    ],
+    "review_source": [
+      {
+        "label": "Glassdoor",
+        "url": "https://www.meta.com/about/"
+      },
+      {
+        "label": "Comparably",
+        "url": "https://www.meta.com/about/"
+      }
+    ],
+    "reddit_threads": [
+      "https://www.reddit.com/r/cscareerquestions/comments/u4ij4j/how_much_will_i_hate_my_life_if_i_started_working/"
+    ]
+  },
+  "last_updated": "2026-03-14"
+}

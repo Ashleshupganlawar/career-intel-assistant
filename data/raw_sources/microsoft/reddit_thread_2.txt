@@ -1,0 +1,13 @@
+TITLE: It's just my feeling or Microsoft is nowdays completely trash?
+
+POST: [deleted]
+
+COMMENTS:
+
+I'm going to say it again. We are  currently in the technological revolution period of American history. It is the equivalent of the industrial revolution at the turn of the 18th century. Meta, Apple, Amazon, Netflix, Google, Tesla, Microsoft (FAANGTM) replaced the industrial oppressive tyrants from that era, Carnegie steel, Vanderbilt railroads, and Rockefeller standard oil. There is zero anti-trust which has any type of meaningful impact against the tyrants. As a result, we will be stuck in a cycle of increasingly shittier products for increasingly more money. There is no competition or fair market to correct this. They operate like the mafia and wack any opposition using the courts or buy them out. It happens so much that we have become numb to it. We blame company x, y, z but really they are doing what companies do. We need to blame gvt and FTC for not doing shit to promote a healthy free market which would prevent an online book seller from trying to now take over the healthcare industry (Amazon). Let that sink in for a moment.
+
+They’ve always been kind of slimy, and their more popular software has often had a “designed by committee” vibe to it, so it tended to be a little cludgy and buggy.
+
+But I’ll say that I notice a huge difference in the overall quality of their software post 2012-ish. Windows 8 was a marker for me - how they let a UI that was so obviously not going to work for the majority of users get into production is still baffling. 
+
+Around that time they also let a lot of their QA staff go, and introduced the Windows Insiders program. Their desktop OS and software quality has been in the toilet ever since, IMO. Windows 10 is well-regarded now, but for the first 2-3 years it was incredibly buggy. Windows 11 is much the same, and hasn’t really advanced much of anything in 10 years except for a prettier but less functional theme. We’re still stuck halfway between control panel and Settings, just with higher system requirements.

@@ -1,0 +1,1 @@
+[ERROR] Could not extract text from https://www.indeed.com/cmp/Apple: 403 Client Error: Forbidden for url: https://www.indeed.com/cmp/Apple
