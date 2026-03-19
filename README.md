@@ -94,24 +94,39 @@ This is the practical flow inside the app:
 ## Architecture
 
 ```mermaid
-flowchart LR
+flowchart TD
     U[User] --> UI[Streamlit UI]
-    UI --> GP[ChatGraphPipeline]
-    UI --> CS[ConversationStore]
-    GP --> RP[ResumeParser]
-    GP --> JA[JobAggregator]
-    GP --> HM[HybridMatcher]
-    GP --> LR[LocalRAGRetriever]
-    GP --> FV[FAISS Vector DB]
-    GP --> JR[JsonRepository]
-    LR --> PCP[Processed Company Profiles]
-    LR --> RS[Raw Source Text]
-    FV --> VS[Vector Store Assets]
-    JA --> JS[Job Source Connectors]
-    HM --> JT[Job Records]
-    RP --> CP[Candidate Profile]
-    GP --> OA[OpenAI API]
-    CS --> TH[Thread Context]
+    UI --> GP[ChatGraphPipeline.run]
+    GP --> R{Input type?}
+
+    R -->|Resume uploaded| RP[ResumeParser]
+    RP --> CP[Candidate profile]
+    RP --> ORT[Resume text cleaned]
+    CP --> QD[Query derivation]
+    QD --> JA[JobAggregator fetch]
+    JA --> JS[Job source connectors]
+    JA --> HM[HybridMatcher rank]
+    HM --> JC[Ranked job catalog]
+    JC --> JR[JsonRepository save artifacts]
+    JC --> CS[ConversationStore update context]
+    ORT --> CS
+
+    R -->|Prompt only| RI{Route intent}
+    RI -->|Job search| JA
+    RI -->|More jobs| MJ[Expand shown jobs from thread context]
+    MJ --> CS
+    RI -->|Culture / Q&A| QA[Answer generation]
+
+    CS --> TC[Thread context]
+    TC --> QA
+    QA --> LR[LocalRAGRetriever]
+    QA --> FV[FAISS vector search]
+    QA --> OA[OpenAI response generation]
+    LR --> PCP[Processed company profiles]
+    LR --> RS[Raw source text]
+    FV --> VS[Vector store assets]
+    QA --> AR[Assistant response]
+    AR --> UI
 ```
 
 - `app/streamlit_app.py`: Streamlit UI and interaction flow
