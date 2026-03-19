@@ -164,6 +164,20 @@ flowchart TD
     FV --> VS
     QA --> AR
     AR --> UI
+
+    classDef ui fill:#1f3b5b,stroke:#6cb6ff,color:#ffffff,stroke-width:1px;
+    classDef orchestration fill:#243b2a,stroke:#7ee787,color:#ffffff,stroke-width:1px;
+    classDef retrieval fill:#4a2f1f,stroke:#ffb86b,color:#ffffff,stroke-width:1px;
+    classDef storage fill:#3d2c57,stroke:#c792ea,color:#ffffff,stroke-width:1px;
+    classDef decision fill:#2f3441,stroke:#9aa4b2,color:#ffffff,stroke-width:1px;
+    classDef output fill:#5a1f2b,stroke:#ff7b72,color:#ffffff,stroke-width:1px;
+
+    class U,UI ui;
+    class GP,RP,CP,ORT,QD,JA,HM,JC,MJ,QA orchestration;
+    class LR,FV,OA,JS,PCP,RS,VS retrieval;
+    class CS,TC,JR storage;
+    class R,RI decision;
+    class AR output;
 ```
 
 - `app/streamlit_app.py`: Streamlit UI and interaction flow
@@ -208,6 +222,13 @@ What the app returns:
 - Retrieves relevant company evidence from local profiles and vector search
 - Summarizes hiring signals, culture themes, and interview context
 - Responds in the same conversation so the answer stays grounded in the fetched job list
+
+## Key Outcomes
+
+- Built a resume-aware AI assistant that connects job discovery, ranking, and company research in one Streamlit workflow
+- Implemented a hybrid matching engine that combines lexical scoring with TF-IDF/cosine-style semantic similarity
+- Added grounded company-insight retrieval using processed profiles, raw source text, and FAISS-backed vector search
+- Designed threaded context persistence so users can continue conversations with resume, job, and retrieval context intact
 
 ## Quick Start
 
