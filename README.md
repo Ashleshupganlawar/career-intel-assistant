@@ -95,37 +95,74 @@ This is the practical flow inside the app:
 
 ```mermaid
 flowchart TD
-    U[User] --> UI[Streamlit UI]
-    UI --> GP[ChatGraphPipeline.run]
-    GP --> R{Input type?}
+    subgraph UI_Layer[UI Layer]
+        U[User]
+        UI[Streamlit UI]
+    end
 
-    R -->|Resume uploaded| RP[ResumeParser]
-    RP --> CP[Candidate profile]
-    RP --> ORT[Resume text cleaned]
-    CP --> QD[Query derivation]
-    QD --> JA[JobAggregator fetch]
-    JA --> JS[Job source connectors]
-    JA --> HM[HybridMatcher rank]
-    HM --> JC[Ranked job catalog]
-    JC --> JR[JsonRepository save artifacts]
-    JC --> CS[ConversationStore update context]
+    subgraph Orchestration[Pipeline Orchestration]
+        GP[ChatGraphPipeline.run]
+        R{Input type?}
+        RI{Route intent}
+        RP[ResumeParser]
+        CP[Candidate profile]
+        ORT[Resume text cleaned]
+        QD[Query derivation]
+        JA[JobAggregator fetch]
+        HM[HybridMatcher rank]
+        JC[Ranked job catalog]
+        MJ[Expand shown jobs]
+        QA[Answer generation]
+        AR[Assistant response]
+    end
+
+    subgraph Retrieval[Retrieval and Intelligence]
+        LR[LocalRAGRetriever]
+        FV[FAISS vector search]
+        OA[OpenAI response generation]
+        JS[Job source connectors]
+        PCP[Processed company profiles]
+        RS[Raw source text]
+        VS[Vector store assets]
+    end
+
+    subgraph Storage[State and Persistence]
+        CS[ConversationStore]
+        TC[Thread context]
+        JR[JsonRepository]
+    end
+
+    U --> UI
+    UI --> GP
+    GP --> R
+
+    R -->|Resume uploaded| RP
+    RP --> CP
+    RP --> ORT
+    CP --> QD
+    QD --> JA
+    JA --> JS
+    JA --> HM
+    HM --> JC
+    JC --> JR
+    JC --> CS
     ORT --> CS
 
-    R -->|Prompt only| RI{Route intent}
+    R -->|Prompt only| RI
     RI -->|Job search| JA
-    RI -->|More jobs| MJ[Expand shown jobs from thread context]
+    RI -->|More jobs| MJ
     MJ --> CS
-    RI -->|Culture / Q&A| QA[Answer generation]
+    RI -->|Culture / Q&A| QA
 
-    CS --> TC[Thread context]
+    CS --> TC
     TC --> QA
-    QA --> LR[LocalRAGRetriever]
-    QA --> FV[FAISS vector search]
-    QA --> OA[OpenAI response generation]
-    LR --> PCP[Processed company profiles]
-    LR --> RS[Raw source text]
-    FV --> VS[Vector store assets]
-    QA --> AR[Assistant response]
+    QA --> LR
+    QA --> FV
+    QA --> OA
+    LR --> PCP
+    LR --> RS
+    FV --> VS
+    QA --> AR
     AR --> UI
 ```
 
