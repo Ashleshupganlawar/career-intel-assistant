@@ -35,6 +35,53 @@ Job search tools usually split the workflow across multiple tabs: one place for 
 - RAG-backed company insights powered by local source maps and vector store assets
 - Reproducible storage for candidates, conversations, jobs, and match artifacts
 
+## Workflow
+
+```text
+Upload Resume / Enter Prompt
+          ->
+Resume Parsing and Candidate Extraction
+          ->
+Query Derivation and Fresh Job Fetch
+          ->
+Hybrid Match Ranking
+          ->
+RAG-Based Company Context Retrieval
+          ->
+Threaded Assistant Response
+          ->
+Follow-up Questions, More Jobs, and Company Insight Exploration
+```
+
+This is the practical flow inside the app:
+
+1. The user starts in the Streamlit chat UI by uploading a resume, typing a prompt, or both.
+2. The pipeline extracts resume text and converts it into a normalized candidate profile.
+3. The app derives a likely search query from parsed skills and roles.
+4. Job connectors fetch recent postings and the matcher ranks them for candidate fit.
+5. The RAG layer pulls relevant company evidence from local profiles, source maps, and vector search.
+6. The assistant returns a grounded response inside the same conversation thread.
+7. The user can keep asking follow-up questions like "show more jobs" or "what is the company culture?"
+
+## Tech Stack
+
+- `Python`
+  Main application language for orchestration, ranking, retrieval, parsing, and data processing.
+- `Streamlit`
+  Used to build the chat-style interface quickly and turn the project into an interactive AI product instead of only a backend script.
+- `OpenAI API`
+  Used for LLM-assisted resume parsing and assistant responses when API credentials are available.
+- `FAISS`
+  Powers local vector retrieval for company context and helps the RAG flow surface relevant evidence efficiently.
+- `Pytest`
+  Provides unit and integration coverage so core behavior can be verified as the project evolves.
+- `JSON-based local persistence`
+  Keeps conversations, candidates, jobs, and match outputs reproducible and easy to inspect during development.
+- `Hybrid ranking logic`
+  Combines lexical overlap with TF-IDF/cosine-style semantic similarity so ranking is more robust than keyword search alone.
+- `RAG architecture`
+  Grounds assistant answers in curated company knowledge rather than relying only on model memory.
+
 ## How It Works
 
 1. The user uploads a resume or sends a prompt through the Streamlit UI.
@@ -105,6 +152,18 @@ Useful scripts:
 - `scripts/fetch_and_store_sources.py`
 - `scripts/summarize_company_profiles.py`
 - `scripts/query_vector_db.py`
+
+## What This Project Helps You Learn
+
+- How to build an end-to-end AI application, not just a standalone model demo
+- How resume parsing can feed downstream search, ranking, and personalized assistant behavior
+- How RAG improves answer grounding by connecting LLM responses to retrievable evidence
+- How deterministic components and LLM components can complement each other in one workflow
+- How to organize a modular Python codebase with separate UI, orchestration, matching, retrieval, and storage layers
+- How local vector search and curated datasets can support explainable AI product behavior
+- How tests help protect AI-adjacent logic like ranking, parsing, storage, and retrieval from regressions
+
+If you are learning AI engineering, this project is useful because it touches several real product patterns at once: UI integration, LLM orchestration, retrieval, ranking, persistence, and evaluation-friendly structure.
 
 ## Repository Notes
 
