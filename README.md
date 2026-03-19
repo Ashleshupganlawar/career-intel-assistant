@@ -11,11 +11,11 @@ Career Intel Assistant is a Streamlit app for resume-aware job discovery and com
 
 ### Empty conversation state
 
-![Career Intel Assistant empty state](docs/assets/ui-empty-state.svg)
+![Career Intel Assistant empty state](docs/assets/Empty%20coversation%20state.png)
 
 ### Job results and conversation view
 
-![Career Intel Assistant job results view](docs/assets/ui-job-results.svg)
+![Career Intel Assistant job results view](docs/assets/Job%20results%20and%20conversation%20view.png)
 
 ## Why This Project
 
@@ -203,7 +203,7 @@ If you are learning AI engineering, this project is useful because it touches se
 
 - The repo includes curated company profile and vector store assets so the app has useful local context out of the box.
 - Local secrets, caches, and machine-specific files are excluded through `.gitignore`.
-- The preview images in this README are lightweight SVG recreations based on the current UI so the landing page stays self-contained in the repo.
+- The README now includes actual UI screenshots stored in `docs/assets/` for a more realistic product preview.
 
 ## Roadmap
 
