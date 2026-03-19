@@ -2,6 +2,10 @@
 .env
 .venv/
 .pytest_cache/
+.mypy_cache/
+.coverage
+.streamlit/secrets.toml
+node_modules/
 
 __pycache__/
 *.py[cod]
