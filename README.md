@@ -11,7 +11,7 @@ Career Intel Assistant is a Streamlit app for resume-aware job discovery and com
 
 ### Empty conversation state
 
-![Career Intel Assistant empty state](docs/assets/Empty%20coversation%20state.png)
+![Career Intel Assistant empty state](docs/assets/Empty%20conversation%20state.png)
 
 ### Job results and conversation view
 
@@ -124,6 +124,38 @@ flowchart LR
 - `data/`: Source maps, processed company profiles, caches, and vector DB assets
 - `scripts/`: Data prep and maintenance utilities
 - `tests/`: Unit and integration coverage
+
+## Demo Walkthrough
+
+### 1. Resume upload with job search
+
+Prompt:
+`[upload resume] fetch latest jobs`
+
+What the app returns:
+- Extracts candidate roles and skills from the resume
+- Pulls recent job postings
+- Ranks the top matches and shows them in the thread
+
+### 2. Follow-up for more results
+
+Prompt:
+`show more jobs`
+
+What the app returns:
+- Uses the same thread context instead of starting over
+- Expands the visible ranked job list
+- Keeps the original resume and search context active
+
+### 3. Company insight follow-up
+
+Prompt:
+`what is the company culture and hiring process for these companies?`
+
+What the app returns:
+- Retrieves relevant company evidence from local profiles and vector search
+- Summarizes hiring signals, culture themes, and interview context
+- Responds in the same conversation so the answer stays grounded in the fetched job list
 
 ## Quick Start
 
